@@ -1,0 +1,12 @@
+__pycache__
+dkdata
+*.pyc
+.coverage
+coverage.xml
+htmlcov/
+.idea
+/memorize.log
+/static
+/node_modules
+
+/apimock/node_modules
