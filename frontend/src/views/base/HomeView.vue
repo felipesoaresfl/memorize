@@ -1,7 +1,7 @@
 <template>
   <v-container class="fill-height">
     <v-responsive class="d-flex align-center text-center fill-height">
-      <v-img contain height="240" src="@/assets/logo.svg" />
+      <v-img contain height="240" src="@/assets/logo-memorize.png" />
       <blockquote class="blockquote text-h5">
         &#8220;Primeiro, resolva o problema. Depois, escreva o código.&#8221;
         <footer>

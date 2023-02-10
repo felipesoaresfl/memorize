@@ -1,7 +1,7 @@
 <template>
   <v-container class="fill-height">
     <v-responsive class="d-flex align-center text-center fill-height">
-      <v-img contain height="240" src="@/assets/logo.svg" />
+      <v-img contain height="220" src="@/assets/logo-memorize.png" />
 
       <v-card>
         <v-card-title class="headline">Template de App Djàvue </v-card-title>
